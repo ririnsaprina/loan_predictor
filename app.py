@@ -9,9 +9,9 @@ Original file is located at
 
 
 # %%writefile app.py
- import streamlit as st
- import pandas as pd
- import joblib
+import streamlit as st
+import pandas as pd
+import joblib
  
  # Load model
  model = joblib.load('xgboostmodel.pkl')
