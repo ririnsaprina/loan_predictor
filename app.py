@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
- %%writefile app.py
+# %%writefile app.py
  import streamlit as st
  import pandas as pd
  import joblib
